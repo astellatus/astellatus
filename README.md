@@ -40,13 +40,6 @@ Hi! 👋 My name is Gleb, and I'm an aspiring developer from Russia. I'm current
 ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&labelColor=%23000000)
 
-## 💻 My projects
-
-### 🌍 **Political World Bot** 
-Discord bot for the "**Political World**" server. It simulates complex geopolitical processes and enables real-time state management.
-- **Key Feature:** High-level process automation and unique gameplay mechanics.
-- **Tech Stack:** `JavaScript`, `Deno`, `Discordeno.js`, asynchronous loop management.
-
 <hr>
 
 <h3 align="center">May the Force be with you! ✨</h3>
